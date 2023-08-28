@@ -10,8 +10,8 @@ function App() {
   return (
     // <div className='w-full h-screen px-8 bg-[#0a192f] mx-auto md:px-14 lg:px-24'>
     <div className="">
-      <Main />
       <Header />
+      <Main />
       <FormLinks />
     </div>
   );
